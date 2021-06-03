@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The confession of faith, of the most reverend father in God Cyrill, Patriarch of Constantinople. Written at Constantinople, 1629. ... = Confessio fidei, reverendissimi domini Cyrilli, 1629. Patriarchæ Constantinopolitani, scripta Constantinopoli</title>
+            <author>Lucaris, Cyril, 1572-1638.</author>
+         </titleStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A06383</idno><idno type="EEBO-CITATION">99839708</idno>
+  <idno type="VID">4155</idno>
+  <idno type="EEBO-PROQUEST">2240876545</idno>
+  <idno type="STC">STC 16854</idno>
+  <idno type="STC">ESTC S103966</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99839708e"/>
+            <note>(EEBO-TCP ; phase 2, no. A06383)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 4155)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 845:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The confession of faith, of the most reverend father in God Cyrill, Patriarch of Constantinople. Written at Constantinople, 1629. ... = Confessio fidei, reverendissimi domini Cyrilli, 1629. Patriarchæ Constantinopolitani, scripta Constantinopoli</title>
+                  <author>Lucaris, Cyril, 1572-1638.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nicolas Bourne, dwelling at the south entrance of the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1629.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On title page, between parallel titles: Cyrillus the Patriarch of Constantinople, to those who desire to vnderstand the religion of the Easterne Church, which is the Greeke Church, (that is to say, what wee belieue, &amp; what wee thinke of the articles of true &amp; right beliefe) in the name of all Christians by common consent setteth out this short confession, that it may be as a witnesse before God and the whole Church, without dissimulation, but with a good conscience.</note>
+                  <note>Text in Latin and English.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Orthodox Eastern Church --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:4155:1"/>
+            <pb facs="tcp:4155:1"/>
+            <p>THE CONFESSION OF FAITH, OF THE MOST REVEREND FATHER IN GOD CYRILL, Patriarch of Constantinople.</p>
+            <p>Written at Constantinople, 1629.</p>
+            <p>CYRILLVS the Patriarch of Constantinople, to those who desire to vnderstand the Religion of the Easterne Church, which is the Greeke Church, (that is to say, what wee belieue, &amp; what wee thinke of the Articles of true &amp; right beliefe) in the name of all Christians by common consent setteth out this short Confession, that it may be as a wit<g ref="char:EOLhyphen"/>nesse before God and the whole Church, without dissimu<g ref="char:EOLhyphen"/>lation, but with a good conscience.</p>
+            <p>CONFESSIO FIDEI, REVERENDISSIMI DOMINI CYRILLI, 1629.</p>
+            <p>Patriarchae Constantinopolitani, scripta Constantinopoli.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Nicolas Bourne,</hi> dwelling at the South entrance of the Royall Exchange. 1629.</p>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="eng" type="version">
+            <pb facs="tcp:4155:2"/>
+            <pb n="i" facs="tcp:4155:2"/>
+            <head>IN THE NAME OF THE FATHER, AND OF THE SONNE, AND OF THE HOLY GHOST.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E belieue <hi>one God</hi> Almightie and In<g ref="char:EOLhyphen"/>finite, three in persons, the <hi>Father, Sonne and Holy Ghost,</hi> the Father vnbe<g ref="char:EOLhyphen"/>gotten, the Sonne begotten of the Fa<g ref="char:EOLhyphen"/>ther before the World, consubstantial with the Father: the Holy Ghost proceeding from the Father by the Sonne, hauing the same essence with the Father and the Sonne: we call these three persons in one essence the <hi>Holy Trinity,</hi> e<g ref="char:EOLhyphen"/>uer to be blessed, glorified and to be worshipped of e<g ref="char:EOLhyphen"/>uery creature.</p>
+            <p>We belieue the <hi>Holy Scripture</hi> to be giuen by God, to haue no other Author but the Holy Ghost, which we ought vndoubtedly to belieue: for it is written, We haue a more sure word of Prophecy, to the which yee doe well to take heede as to a light shining in a darke place. Besides, we beliue the <hi>authority</hi> thereof to be aboue the authority of the Church. It is a farre different thing for the Holy Ghost to speake and the tongue of man, for the tongue of man may through ignorance erre, deceyue, and be deceyued: but the Word of God neither deceyueth, nor is deceyued, nor can erre, but is alwayes infallible and sure.</p>
+            <pb n="2" facs="tcp:4155:3"/>
+            <p> We belieue that the best and greatest God hath <hi>predestinated</hi> his Elect vnto glorie before the begin<g ref="char:EOLhyphen"/>ning of the World, without any respect vnto their workes, and that there was no other impulsiue cause to this election, but onely the good will and mercy of God. In like manner before the world was made, he hath reiected whom he would: of which act of re<g ref="char:EOLhyphen"/>probation, if you consider the absolute dealing of God his will is the cause: but if you looke vpon Gods or<g ref="char:EOLhyphen"/>derly proceeding, his iustice is the cause, for God is mercifull and Iust.</p>
+            <p>We belieue that one God in Trinity, the Father, Sonne, and Holy Ghost, to be the <hi>Creator</hi> of all things visible and inuisible: Inuisible things we call the An<g ref="char:EOLhyphen"/>gels, visible things the Heauens and all things vnder them. And because the Creator is good by nature, he hath created all things good, and cannot doe any euil: and if there be any euill, it proceds from the Deuill and man: for it ought to bee a certaine rule to vs, that God is not the Author of euill, neither can sinne by any iust reason be imputed to him.</p>
+            <p>We belieue that all things are gouerned by Gods Prouidence, which we ought rather to adore then search into, sith it is beyond our capacity, neither can we truly vnderstand the reason of it from the things themselues; in which matter we suppose it better to embrace silence in humility, then to speake many things which doe not edify.</p>
+            <p>We belieue that the first man created by God, fell in Paradise, because neglecting the Commandement of God, he yelded to the deceitfull counsell of the Serpent: from thence sprung vp originall Sinne to his posterity, so that no man is borne according to the flesh, who doeth not beare this burthen, and feele the fruits of it in his life.</p>
+            <pb n="3" facs="tcp:4155:3"/>
+            <p> We belieue that <hi>Iesus Christ</hi> our Lord hath made himselfe of no accompt, that is, <hi>hath assumed mans na<g ref="char:EOLhyphen"/>ture</hi> into his owne Subsistence: that he was concea<g ref="char:EOLhyphen"/>ued by the holy Ghost, that he was made man in the Wombe of Mary alwayes a Virgin, was borne and suffred death, was buryed and glorified by his resur<g ref="char:EOLhyphen"/>rection, that he brought saluation and glory to all beleeuers, whom we looke for to come to iudge both quicke and dead.</p>
+            <p>We belieue, that our Lord Iesus Christ <hi>fitteth on the right hand of his Father,</hi> and there maketh intercession for vs, executing alone the office of a true and lawfull <hi>Priest</hi> and <hi>Mediator:</hi> and from thence he hath a care of his people, and gouerneth his Church, adorning and enriching her with many blessings.</p>
+            <p>We belieue that without <hi>Faith,</hi> no man can be sa<g ref="char:EOLhyphen"/>ued; but that we call Faith, which in Christ Iesus iu<g ref="char:EOLhyphen"/>stifieth, which the life and death of our Lord Iesus Christ procured, the Gospell published, and without which no man can please God.</p>
+            <p>We belieue that the Church (which is called <hi>Catho<g ref="char:EOLhyphen"/>licke</hi>) containeth all true belieuers in Christ, which be<g ref="char:EOLhyphen"/>ing departed, are in their Country in heauen, or liuing on earth, are yet trauayling in the way: the <hi>Head of which Church,</hi> (because a mortal man by no meanes can be) Iesus Christ is the head alone, and he holdeth the sterne of the Gouernment of the Church in his owne head: but because on earth there be particular Visible Churches, and in order euery one of them hath one chiefe, which chiefe is not properly to be called a head of that particular Church, but improperly, be<g ref="char:EOLhyphen"/>cause he is the principall member thereof.</p>
+            <p>We belieue that the <hi>Members</hi> of the Catholicke <hi>Church</hi> be the Saints, chosen vnto eternall life, from the number and fellowshippe of whom, Hypocrites
+<pb n="4" facs="tcp:4155:4"/>are excluded, though in particular visible Churches Tares may be found amongst the wheate.</p>
+            <p>We belieue that the <hi>Church</hi> on earth is sanctified and <hi>instructed</hi> by the <hi>Holy Ghost,</hi> for he is the true comforter, whom Christ sendeth from the Father, to teach the truth, and to expell darkenes from the vn<g ref="char:EOLhyphen"/>derstanding of the faithfull. For it is very certaine that the <hi>Church on earth may erre, taking falshood for truth,</hi> from which errour the light and doctrine of the holy Spirit alone freeth vs, not of mortall man, although by Mediation of the labours of the Churches Mini<g ref="char:EOLhyphen"/>sters this may be done.</p>
+            <p>We belieue <hi>that a man is iustified by Faith,</hi> and not by workes; but when we say, by Faith, we vnderstand the correlatiue or obiect of faith, which is the righte<g ref="char:EOLhyphen"/>ousnes of Christ, which Faith apprehends and apply<g ref="char:EOLhyphen"/>eth vnto vs for our Saluation. This may very well be, and yet without any preiudice to good workes: for truth it selfe teacheth vs, that workes must not be ne<g ref="char:EOLhyphen"/>glected, that they be necessary meanes, and testimo<g ref="char:EOLhyphen"/>nies of our faith, for confirmation of our calling; but for <hi>workes</hi> to be sufficient for our saluation, and to make a man so to appeare before the Tribunall of Christ, that of condignity or merit they conferre sal<g ref="char:EOLhyphen"/>uation, humane fraylety witnesseth to be false; but the <hi>righteousnes of Christ</hi> being applyed to the penitent, doth onely iustifie and saue the faithfull.</p>
+            <p>We belieue that <hi>free will</hi> is dead in the vnregenerate, because they can doe no good thing, and whatsoeuer they doe is sinne; but in the regenerate by the grace of the holy Spirit the will is excited &amp; in deed worketh but not without the assistance of grace; to effect that therefore which is good, grace goeth before the will, which will in the regenerate is wounded, as he by the theeues that came from Hierusalem, so that of
+<pb n="5" facs="tcp:4155:4"/>himselfe without the helpe of grace, he hath no power to doe any thing.</p>
+            <p>We belieue that there be Euangelicall <hi>Sacraments</hi> in the Church, which the Lord hath instituted in the Gospell, and they bee <hi>two:</hi> wee haue no larger number of Sacraments, because the Ordayner thereof deliue<g ref="char:EOLhyphen"/>red no more. Furthermore wee belieue that they consist of the Word and the Element, that they be seales of the promises of God, and we doubt not but doe conferre grace. But that the Sacrament be entire and whole, it is requisite that an earthly substance &amp; an externall action doe concurre with the vse of that element ordained by Christ our Lord, and ioyned with a true <hi>faith,</hi> because the defect of faith doth pre<g ref="char:EOLhyphen"/>iudice the integritie of the Sacraments.</p>
+            <p>We belieue that <hi>Baptisme</hi> is a Sacrament instituted by the Lord, which vnlesse a man hath receaued, he hath not communion with Christ, from whose death, buriall and glorious Resurrection, the whole vertue and efficacy of Baptisme, doth proceed; therefore in the same forme wherein our Lord hath comman<g ref="char:EOLhyphen"/>ded in the Gospel, we are certaine, that to those who bee Baptized both Originall and Actuall sinnes are pardoned: so that whosoeuer haue beene washed <hi>in the name of the Father, and of the Sonne, and of the Holy Ghost,</hi> are regenerate, cleansed and iustified. But con<g ref="char:EOLhyphen"/>cerning the repetition of it, we haue no command to be rebaptized, therefore we must absteine from this inconuenience.</p>
+            <p>We belieue that the other Sacrament was ordai<g ref="char:EOLhyphen"/>ned of the Lord, which we call the <hi>Eucharist.</hi> For in the Night wherein hee was betrayed, taking bread and blessing it, he said to his Apostles, Take yee, eat, this is my body: and when he had taken the Cuppe, hee gaue thankes and said, Drinke ye all of this, this
+<pb n="6" facs="tcp:4155:5"/>is my blood which was shed for many: this doe in re<g ref="char:EOLhyphen"/>membrance of me. And <hi>Paul</hi> addeth, for as often as ye shall eat of this bread, and drinke of this Cuppe, yee doe shew the Lords death: this is the pure and law<g ref="char:EOLhyphen"/>full institution of this wonderfull Sacrament, in admi<g ref="char:EOLhyphen"/>nistration whereof we confesse and professe a <hi>true and reall presence</hi> of Christ our Lord, but yet such a one, as <hi>faith</hi> offereth to vs, not such as deuised <hi>transubstantia<g ref="char:EOLhyphen"/>tion</hi> teacheth. For we belieue, the faithfull doe eate the body of Christ in the Supper of the Lord, not by breaking it with the teeth of the body, but by percei<g ref="char:EOLhyphen"/>uing it with the sence and feeling of the Soule, sith the body of Christ is not that which is Visible in the Sacrament, but that which <hi>Faith spiritually</hi> apprehen<g ref="char:EOLhyphen"/>deth, and offereth to vs: from whence it is true that if we belieue, we doe eat and partake, if we doe not belieue, we are destitute af all the fruit of it. We be<g ref="char:EOLhyphen"/>lieue consequently, that to drinke the Cuppe in the Sacrament, is to be partaker of the true blood of our Lord <hi>Iesus Christ,</hi> in the same manner as we affirmed of the body: for as the Author of it commanded con<g ref="char:EOLhyphen"/>cerning his body, so he did concerning his blood: which cōmādemēt ought neither to be dismembred nor maymed, according to the fancy of mans arbitre<g ref="char:EOLhyphen"/>ment: yea rather the institution ought to be kept as it was deliuered to vs: when therefore we haue bene partakers of the body and blood of Christ worthily, and haue communicated entirely, we acknowledge our selues to be reconciled, vnited to our Head of the same body, with certaine hope to be coheires in the Kingdome to come.</p>
+            <p>Wee belieue that the <hi>soules of the dead</hi> are either in blessednesse, or in damnation, according as euery one hath done: for assoon as they remoue out of the body they passe either to Christ or into hell: for as a man is
+<pb n="7" facs="tcp:4155:5"/>found at his death, so he is iudged, and after this life there is neither power nor opportunity to repent: in this life there is a time of Grace, they therefore who be iustified here shall suffer no punishment hereafter: but they who being not iustified, doe dye are appoyn<g ref="char:EOLhyphen"/>ted for euerlasting punishments. By which it is eui<g ref="char:EOLhyphen"/>dent that the fiction <hi>of Purgatory</hi> is not to be admitted but in the truth it is determined, that euery one ought to repent in this life, and to obtaine remission of his sinnes by our Lord Iesus Christ, if he will be saued. And let this be the end.</p>
+            <p>
+               <hi>This compendious and briefe Confession of vs we coniecture wil be a contradiction to them, who are pleased to slander mali<g ref="char:EOLhyphen"/>ciously accuse vs and vniustly persecute vs: But wee trust in our Lord Iesus Christ, and hope that he will not relinquish the cause of his faithfull ones, nor let the rod of wickednes lye vpon the let of the righteeous.</hi>
+            </p>
+            <closer>
+               <dateline>Dated in Constantinople, in <date>the Moneth of March, 1629.</date>
+               </dateline>
+               <signed>CYRILL, Patriarch of Constantinople.</signed>
+            </closer>
+         </div>
+         <div xml:lang="lat" type="version">
+            <pb facs="tcp:4155:6"/>
+            <pb n="9" facs="tcp:4155:6"/>
+            <head>CONFESSIO FIDEI.</head>
+            <p>
+               <hi>In nomine Patris, &amp; Filij, &amp; Spiritus Sancti.</hi>
+            </p>
+            <p>
+               <hi>CYRILLƲS Patriarcha Constantinopolitanus, sci<g ref="char:EOLhyphen"/>scitantibus intelligere de Religione Ecclesiae Orientalis, id est Graca, quid credamus videlicet, quidque sentiamus de Articulis Orthodoxa fidei, nomine omnium Christianorum communiter, exponit breuem istam confessionem, vt sit in te<g ref="char:EOLhyphen"/>stimonium coram Deo &amp; tota Ecclesia, sine simulatione, sed bona conscientia.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">C</seg>REDIMVS <hi>vnum verum Deum</hi> Omni<g ref="char:EOLhyphen"/>potentem &amp; Infinitum, Trinum in personis, <hi>Patrem, Filium, &amp; Spiritum Sanctum.</hi> Patrem ingenitum, Filium genitum à Patre ante secula, Patri con<g ref="char:EOLhyphen"/>substantialem, Spiritum Sanctum à Pa<g ref="char:EOLhyphen"/>tre per Filium procedentem, eandem habentem essen<g ref="char:EOLhyphen"/>tiam, quam Pater &amp; Filius: istas tres Personas in vna essentia appellamus <hi>Sacresanctam Trinitatem,</hi> semper benedicendam, glorificandam atque ab omni creatu<g ref="char:EOLhyphen"/>ra adorandam.</p>
+            <p>Credimus <hi>Scripturam Sacram</hi> esse <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, habe<g ref="char:EOLhyphen"/>réque authorem Spiritum Sanctum non alium, cui <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>bere debemus fidem indubitatam. Scriptum enim est, habemus firmiorem propheticum sermonem, cui bene facitis attendere, quasi lucernae splédenti in caliginoso loco. Praeterea eius <hi>autoritatem</hi> esse superiorem Eccle<g ref="char:EOLhyphen"/>siae autoritate, nimis enim differens est, loqui Spiritum Sanctum, &amp; linguam humanā, cum ista possit per igno<g ref="char:EOLhyphen"/>rantiam
+<pb n="10" facs="tcp:4155:7"/>errare, fallere &amp; falli, Scriptura vero Diuina nec fallitur, nec errare potest, sed est infallibilis sem<g ref="char:EOLhyphen"/>per &amp; certa.</p>
+            <p>Credimus Deum Opt. Max. ante mundi originem suos <hi>electos</hi> ad gloriam <hi>praedestinasse</hi> sine respectu ad il<g ref="char:EOLhyphen"/>lorum opera, nullámque causam impulsiuam ad istam electionem aliam esse, nisi beneplacitum &amp; Diuinam misericordiam, similiter ante constitutionem huius seculi, <hi>reprobasse</hi> quos reprobauit, cuius reprobationis, si respexeris absolutum Ius Dei, voluntatem Dei esse causam, si autem Ius ordinatum respexeris, Iustitiam Dei esse causā: misericors enim est Dominus, &amp; Iustus.</p>
+            <p>Credimus Deum Trinum, Patrem, Filium &amp; Spiritū Sanctum esse <hi>Creatorem</hi> visibilium &amp; inuisibilium: In<g ref="char:EOLhyphen"/>uisibilia vocamus Angelos, visibilia Coelum, &amp; quae sub Coelo, &amp; quia bonus est Creator naturo, omnia creauit bona, nec vnquam malum potest facere, &amp; siquid ma<g ref="char:EOLhyphen"/>lum est, illud esse diaboli &amp; hominis. Debet enim esse nobis certa regula, quod Deus autor non est mali, nec culpa iusta ratione potest ei imputari.</p>
+            <p>Credimus omnia gubernari per Dei <hi>prouidentiam,</hi> quam adorare &amp; non inuestigare debemus, cum sit su<g ref="char:EOLhyphen"/>pra captum nostrum, neque rationes ipsius possimus certè à nobismetipsis intelligere: in qua materia sen<g ref="char:EOLhyphen"/>timus silentium, in humilitate potius amplexandum, quam plura loqui quae non aedificant.</p>
+            <p>Credimus primum hominem à Deo creatum ceci<g ref="char:EOLhyphen"/>disse in Paradiso, quia neglecto Diuino praecepto, ser<g ref="char:EOLhyphen"/>pentis fraudulento obtēperauit consilio, indéque <hi>Ori<g ref="char:EOLhyphen"/>ginale</hi> pullulasse <hi>pecatum</hi> posteritati, ita vt nemo secun<g ref="char:EOLhyphen"/>dum carnem nascatur, qui non portet hoc pondus, fructusque suos in hac vita non sentiat.</p>
+            <p>Credimus Filium Dei Dominum nostrum <hi>Iesum Christum</hi> se exinanisse, hoc est in sua hypostasi <hi>huma<g ref="char:EOLhyphen"/>nam assumpsisse naturam,</hi> Spiritu Sancto conceptum, fa<g ref="char:EOLhyphen"/>ctúmque
+<pb n="11" facs="tcp:4155:7"/>hominem in ventre semper Virginis Mariae, natúmque, passum, sepultum, &amp; resurrectione glorifi<g ref="char:EOLhyphen"/>catum, salutem &amp; gloriam omnibus fidelibus peperis<g ref="char:EOLhyphen"/>se, quē expectamus vēturū viuos &amp; mortuos indicare.</p>
+            <p>Credimus Dominum nostrum Iesum Christum <hi>se<g ref="char:EOLhyphen"/>dere in dextra Patris,</hi> ibique pro nobis interpellare &amp; intercedere, solum officio fungentem veri &amp; legitimi <hi>Pontificis</hi> &amp; <hi>Mediatoris,</hi> indéque solum curam gerere suorum &amp; praeesse Ecclesiae, ipsam varijs benedictio<g ref="char:EOLhyphen"/>nibus ornando, foecundando.</p>
+            <p>Credimus, sine <hi>Fide</hi> neminem posse <hi>saluari:</hi> Fidem autem eam vocamus, quae est in Iesu Christo iustifi<g ref="char:EOLhyphen"/>cans, quam vita &amp; mors Christi Domini peperit, Euā<g ref="char:EOLhyphen"/>gelium praedicat, &amp; sine qua nemo potest placere Deo.</p>
+            <p>Credimus Ecclesiam quae vocatur <hi>Catholica</hi> Fideles in Christo continere vniuersaliter, qui vel defuncti in Patria sunt, vel adhuc in via peregrinantur, cuius <hi>Ec<g ref="char:EOLhyphen"/>clesiae Caput,</hi> quia homo mortalis esse nulla ratione po<g ref="char:EOLhyphen"/>test, ipse Dominus noster Iesus Christus solus caput est, ipséque clauum totius regiminis Ecclesiae in manu tenet, sed quoniā in via particulares Ecclesiae visibiles sunt, &amp; in ordine vnaquaeque habet vnum primum, ip<g ref="char:EOLhyphen"/>sum non esse propriè vocandum Caput particularis il<g ref="char:EOLhyphen"/>lius Ecclesiae, sed impropriè &amp; hoc, quia in ipsa mem<g ref="char:EOLhyphen"/>brum est principale.</p>
+            <p>Credimus <hi>membra Ecclesiae</hi> Catholicae esse Sanctos ad vitam aeternam electos à quorum consortio excludi hypocritas, quamuis in particularibus Ecclesijs mistae cum tritico paleae inueniantur.</p>
+            <p>Credimus <hi>Spiritu sancto</hi> sanctificari &amp; <hi>doceri Ecclesi<g ref="char:EOLhyphen"/>am</hi> in via, ipse enim est verus Paracletus, quem mittit Christus à Patre, vt doceat veritatem, tenebrasque ex<g ref="char:EOLhyphen"/>cutiat à mentibus fidelium. Certum enim est quod <hi>Ec<g ref="char:EOLhyphen"/>clesia in via errare potest,</hi> falsum pro vero eligendo, à quo errore solius Spiritus sancti lumen &amp; doctrina
+<pb n="12" facs="tcp:4155:8"/>nos liberat, non mortalis hominis, quamuis mediante opera ministrantium Ecclesiae hoc possit fieri.</p>
+            <p>Credimus <hi>hominem iustificari perfidem,</hi> non ex operi<g ref="char:EOLhyphen"/>bus. Cum autem dicimus per fidem, intelligimus fidei correlatiuum, quod est <hi>Iustitia Christi,</hi> quam fides ap<g ref="char:EOLhyphen"/>prehendit, nobisque applicat ad salutem, hoc autem optime, sinéque operum praeiudicio stare cognosci<g ref="char:EOLhyphen"/>mus, nam &amp; opera non esse negligenda, esseque media necessaria &amp; fidei nostrae testimonia, ad vocationis no<g ref="char:EOLhyphen"/>strae confirmationem, veritas ipsa nos docet. Ipsa vero per se esse sufficientia hominem saluare, in Tribunali<g ref="char:EOLhyphen"/>que Christi comparere posse, vt <hi>excondigno</hi> salutem re<g ref="char:EOLhyphen"/>tribuant, hoc esse falsum testatur humana fragilitas, at <hi>Christi Iustitia</hi> applicata resipiscentibus, sola iustificat atque saluat Fidelem.</p>
+            <p>Credimus <hi>liberum arbitrium</hi> in non renatis esse mor<g ref="char:EOLhyphen"/>tuum, quia nil boni possunt facere, &amp; quidquid faciunt esse peccatum, in renatis vero esse per gratiam Spiri<g ref="char:EOLhyphen"/>tus sancti arbitrium excitatum, &amp; operatur quidem, sed non sine gratiae auxilio. Ergo vt homo faciat bonū, praeuenit gratia arbitrium, quod sine gratia inuenitur esse vulneratum, vt à latronibus ille qui descendebat ab Hierusalem, ita vt nihil ex se vel possit, vel faciat.</p>
+            <p>Credimus Euangelica <hi>Sacramenta</hi> esse in Ecclesia quae Dominus instituit in Euangelio, &amp; ipsa esse <hi>duo,</hi> ampli<g ref="char:EOLhyphen"/>orem numerum Sacramentorum non habemus, quia institutor non plura tradidit. Porrò constare verbo &amp; elemento, esséque signacula promissionum Dei, &amp; con<g ref="char:EOLhyphen"/>ferre gratiam non dubitamus, vt autem Sacramentum sit integrum, opus esse vt concurrat res terrena, &amp; actio externa, cum vsu rei terrenae à Christo Domino insti<g ref="char:EOLhyphen"/>tuto, atque cum vera side coniuncto, quia <hi>fidei</hi> defectus praeiudicat integritati Sacramenti.</p>
+            <p>Credimus <hi>Baptismum</hi> esse Sacramentum à Domino institutum, quem nisi quis susceperit communionem
+<pb n="13" facs="tcp:4155:8"/>non habet cum Christo, cuius ex morte sepultura &amp; gloriosa resurrectione promanat tota virtus &amp; effica<g ref="char:EOLhyphen"/>cia baptismi, ideo ea forma qua Dominus praecepit in Euangelio Baptizatis, certi sumus quod remittan<g ref="char:EOLhyphen"/>tur peccata tum originalia tum actualia, ita vt quiqui abluti fuerint <hi>in nomine Patris &amp; Filis &amp; Spiritus sancti</hi> regenerati, mundati, atque iustificati sint. De <hi>iteratione</hi> autem non habemus mādatum, vt it eretur baptismus, ideo abstinendum esse ab hoc inconuenienti.</p>
+            <p>Credimus alterum Sacramentum à Domino institu<g ref="char:EOLhyphen"/>tum esse illud quod vocamus <hi>Encharistiam.</hi> Nocte enim qua tradebat semetipsum, accipiēs panem &amp; benedi<g ref="char:EOLhyphen"/>cens dicebat Apostolis, accipite, &amp; manducate, hoo est Corpus meum, &amp; accepto Calice gratias agens di<g ref="char:EOLhyphen"/>cebat, bibite ex hoc omnes, hic est sanguis meus, qui pro multis effunditur, hoc facite in meam comme<g ref="char:EOLhyphen"/>morationem, &amp; addit Paulus, quotiescunque enim comederitis panem hunc, &amp; calicem hunc biberitis, mortem Domini annunciabitis, ista est simplex vera &amp; legitima huius mirabilis Sacramenti institutio, in cuius administratione <hi>praesentiam veram realem</hi> Christi Domini confitemur &amp; profitemur. At illam quam <hi>Fi<g ref="char:EOLhyphen"/>des</hi> nobis offert, non autem quam excogitaa, docer <hi>transubstantiatio.</hi> Credimus enim fideles Corpus Christi manducare in Coena Domini, non dente materiali te<g ref="char:EOLhyphen"/>rendo, sed animae sensu percipiendo, cum Corpus Christi, non sit illud quod oculis in Sacramento sese offert, sed illud quod <hi>Spiritualiter Fides</hi> apprehendit, nobisque praebet, vnde verum est, si credimus, man<g ref="char:EOLhyphen"/>ducamus &amp; participamus, si non credimus, omni fru<g ref="char:EOLhyphen"/>ctu destituimur, consequenter calicem bibere in Sacra<g ref="char:EOLhyphen"/>mento, esse Sanguinem verum Domini nostri <hi>Iesu Christi</hi> communicare, eo modo sicut &amp; de corpore as<g ref="char:EOLhyphen"/>seruimus, institutor enim sicut de suo corpore, ita de suo sanguine mandauit, quod mandatū nec lacerarinec
+<pb n="14" facs="tcp:4155:9"/>mutilari debet pro <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>bito humani arbitrij, imo seru<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> debet institutio prout nobrs tradit<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> est, vbi ergo par<g ref="char:EOLhyphen"/>ticipauerimus dignè, &amp; communicauerimus <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> corpus &amp; sanguinem Christi in Sacramento, fatemu<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> esse iam nos reconcilia tos, capiti nostro vnitos, &amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, cum certa spe &amp; cohaeredes futuros in Re<g ref="char:EOLhyphen"/>gno.</p>
+            <p>Oredimus <hi>defunctorum animas</hi> esse vel in beatitudi<g ref="char:EOLhyphen"/>ne vel in damnatione, prout quisque gesserit, migrar<g ref="char:EOLhyphen"/>tes enim ex corporibus illico vel ad Christum, vel in infernum migrare, quia qualis vnusquisque in morte inuenitur, talis iudicatur, post hanc vitam nulla est fa<g ref="char:EOLhyphen"/>cultas resipiscentiae, in hae vita tempus est gratiae, ideo qui hic iustificantur nullam amplius posthac sub<g ref="char:EOLhyphen"/>ibunt poenam, qui autem non iustificati moriuntur, in poenas destinantur aeternas. Ex quo patet commen<g ref="char:EOLhyphen"/>tum <hi>de Purgaterio</hi> non esse admittendum, sed in veri<g ref="char:EOLhyphen"/>tate statuendùm, vnumquemque debére in hoc seculo rescipiscere, remissionémque peccatorum per Domi<g ref="char:EOLhyphen"/>num nostrum <hi>Iesum Christum</hi> impetrare, si saluus esse voluerit. Et hic finis sit.</p>
+            <p>Compendiosam istam confessionem nostram futura coniecturamus in signum contradictionis apud illos, quibus placet nos calumniari &amp; iniusté perfequi. At nos confidimus in Domino nostro Iesu Christo, &amp; spe<g ref="char:EOLhyphen"/>ramus quòd causam suorū fidelium non relinquet, ne<g ref="char:EOLhyphen"/>que virgam malignorum super sortem iustorum.</p>
+            <closer>
+               <dateline>Data in Constantinopoli in Patriachatu, <date>me<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e Martij, 1629.</date>
+               </dateline>
+               <signed>
+                  <hi>CYRILLƲS, Patriach<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Constantinopolitan<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:4155:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
